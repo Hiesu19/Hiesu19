@@ -9,7 +9,7 @@ LK25 the High School for Gifted Students Ha Tinh | Computer Engineering at HUST
 * 🌍  I'm based in Ha Noi, VietNam
 * 🖥️  See my portfolio at [My website](http://hiesu19.click)
 * ✉️  You can contact me at [thaihieu1919@gmail.com](mailto:thaihieu1919@gmail.com)
-* 🧠  I'm learning C++, Python, Java
+* 🧠  I'm learning C++, Python, Java, JavaScript
 
 ### Skills
 
