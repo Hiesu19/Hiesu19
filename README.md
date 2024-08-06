@@ -18,4 +18,4 @@ LK25 the High School for Gifted Students Ha Tinh | Computer Engineering at HUST
 </p>
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Hiesu19"><img src="https://github-readme-stats.vercel.app/api?username=Hiesu19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hiesu19's GitHub stats" /></a>
+<a href="http://www.github.com/Hiesu19"><img src="https://github-readme-stats.vercel.app/api?username=Hiesu19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=radical" alt="Hiesu19's GitHub stats" /></a>
