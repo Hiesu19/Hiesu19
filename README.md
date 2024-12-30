@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering
 --------------------
 
-LK25 the High School for Gifted Students Ha Tinh | Computer Engineering at HUST 
+Computer Engineering at HUST | LK25 the High School for Gifted Students Ha Tinh
 
 * 🌍  I'm based in Ha Noi, VietNam
 * 🖥️  See my portfolio at [My website](http://hiesu19.click)
