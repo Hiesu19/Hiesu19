@@ -1,9 +1,7 @@
 ## Hi 👋, I'm Nguyen Thai Hieu
 
-**Data Engineer** in banking & financial services · Computer Engineering student at **HUST**
+**Data Engineer** · Computer Engineering student at **HUST**
 
-- 💼 Data Engineer @ **FSS** (Financial Software Solutions), building ETL/ELT pipelines, data warehouses and reporting for core banking
-- 🧑‍💻 Previously Backend Engineer @ **Sotatek**, working with NestJS, Kafka, PostgreSQL and Web3 (Ethers.js)
 - 🌐 Portfolio: [hieu.id.vn](https://hieu.id.vn)
 - ✉️ Email: [thaihieu1919@gmail.com](mailto:thaihieu1919@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hiesu19/)
 
