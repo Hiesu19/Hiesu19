@@ -20,4 +20,7 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/Hiesu19"><img src="https://github-readme-stats.vercel.app/api?username=Hiesu19&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Hiesu19's GitHub stats" /></a>
+<p align="left">
+  <a href="https://github.com/Hiesu19"><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiesu19&theme=radical" alt="Hiesu19's GitHub stats" /></a>
+  <a href="https://github.com/Hiesu19"><img height="170" src="https://streak-stats.demolab.com?user=Hiesu19&theme=radical&hide_border=true" alt="Hiesu19's GitHub streak" /></a>
+</p>
