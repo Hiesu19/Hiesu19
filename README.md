@@ -1,7 +1,8 @@
 ## Hi 👋, I'm Nguyen Thai Hieu
 
-**Data Engineer** · Computer Engineering student at **HUST**
+**Data Engineer** · Computer Engineering student at **HUST** · LK25 High School for the Gifted, Ha Tinh
 
+- 🌍 Based in Ha Noi, Viet Nam
 - 🌐 Portfolio: [hieu.id.vn](https://hieu.id.vn)
 - ✉️ Email: [thaihieu1919@gmail.com](mailto:thaihieu1919@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hiesu19/)
 
